@@ -1,0 +1,5 @@
+[
+  {"usuario" : "correo@gmail.com", "pass": "admin123"},
+  {"usuario" : "correo1@gmail.com", "pass": "admin321"},
+  {"usuario" : "correo2@gmail.com", "pass": "admin456"}
+]
